@@ -84,9 +84,7 @@ to:
 - execute the full NA-ECC encryption and decryption workflow
 - perform ciphertext diversity and entropy experiments
 - verify tamper detection and malleability resistance
-- generate performance benchmarks automatically saved to:
-
-na_ecc_result.csv and na_ecc_result_summary.csv
+- generate performance benchmarks automatically saved to: na_ecc_result.csv and na_ecc_result_summary.csv
 
 
 No additional notebooks or scripts are required to reproduce the reported results.
